@@ -1,0 +1,10 @@
+@mixin theme($theme){
+    margin-left: $theme px;
+    margin-right: $theme px;
+}
+
+
+
+body {@include theme(10)}
+
+div {@include theme(15)}
