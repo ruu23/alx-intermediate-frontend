@@ -1,0 +1,11 @@
+Steps to install and set up SASS on Windows:
+
+1. Installed Node.js (LTS version) from https://nodejs.org/en/download
+2. Verified installation using:
+   node -v
+   npm -v
+3. Installed SASS globally using:
+   npm install -g sass
+4. Verified SASS installation using:
+   sass --version
+   (Output: 1.93.3 compiled with dart2js 3.9.4)
